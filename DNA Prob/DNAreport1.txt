@@ -1,0 +1,18 @@
+
+REPORT on DNA Sequence
+
+Total number of bases with errors:  5525
+Total number of bases:              5522
+Number of errors:                      3
+Total number of A:                   953
+Total number of G:                  1699
+Total number of T:                  1307
+Total number of C:                  1563
+
+Graph of Base Distribution
+**************************************************
+
+A | AAAAAAAAA
+G | GGGGGGGGGGGGGGGG
+C | CCCCCCCCCCCCCCC
+T | TTTTTTTTTTTTT
